@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/bijoyahmed02"><img src="https://img.shields.io/github/followers/sszobaer?label=Followers&style=social" alt="GitHub Followers"></a>
-  <a href="www.linkedin.com/in/bijoy-ahmed818"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/bijoy-ahmed818/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
   <a href="mailto:bijoyahmed818@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
@@ -218,7 +218,7 @@ Designed for low-cost embedded IoT implementation
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bijoyahmed02&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bijoyahmed02&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
@@ -237,7 +237,7 @@ Designed for low-cost embedded IoT implementation
 ## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="www.linkedin.com/in/bijoy-ahmed818"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+  <a href="https://www.linkedin.com/in/bijoy-ahmed818/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
   <a href="https://github.com/bijoyahmed02"><img src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/></a>
   <!-- <a href="https://www.youtube.com/@BijoyAhamed"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
   <a href="mailto:bijoyahmed818@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
