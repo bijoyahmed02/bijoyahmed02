@@ -222,7 +222,8 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center"><img src="https://img.shields.io/badge/📄_Published_Paper-6C63FF?style=for-the-badge"/><br><b>QPAIN 2026</b><br>IEEE Conference (CUET)</td>
+      <td align="center"><img src="https://img.shields.io/badge/📄_Published_Paper-6C63FF?style=for-the-badge"/><br><b>QPAIN 2026 – IEEE Conference</b><br>
+Noise-Robust Speech Emotion Recognition Using Deep Learning: TowardsReal-Life Adaptive Emotion-Aware Systems</td>
       <!-- <td align="center"><img src="https://img.shields.io/badge/🏅_Award_Winner-FFD700?style=for-the-badge"/><br><b>1st Runner-Up</b><br>IDAA 2025 Best Paper Award</td> -->
     </tr>
   </table>
