@@ -117,83 +117,100 @@
 
 ---
 
-## 🌟 Featured Projects  
-### 🏨 **Hotel Reservation System**  
->A complete hotel reservation system featuring User, Admin, and Receptionist panels for efficient booking, management, and operational control.
-Developed using HTML, CSS, JavaScript, PHP, and MySQL
-Implemented user authentication and session management
-Designed room booking system with availability checking
-Managed reservations, customer data, and booking history
-👉 *Highlights: Full-stack development, database management, session handling.*
+# 🌟 Featured Projects
 
 ---
 
-### 🚀 **USS Discovery - Intergalactic Traveling System**  
+## 🏨 Hotel Reservation System
+> A complete hotel reservation system featuring User, Admin, and Receptionist panels for efficient booking, management, and operational control.
+
+- Developed using HTML, CSS, JavaScript, PHP, and MySQL  
+- Implemented user authentication and session management  
+- Designed room booking system with availability checking  
+- Managed reservations, customer data, and booking history  
+
+👉 **Highlights:** Full-stack development, database management, session handling
+
+---
+
+## 🚀 USS Discovery - Intergalactic Traveling System
 > An intergalactic travel booking platform for civilians, enabling seamless planning and reservation of space travel experiences.
-Developed a user-friendly platform for travel booking and planning
-Implemented real-time updates for schedules and travel status
-Integrated secure transaction system for safe bookings
-Designed customizable travel options based on user preferences
-Built a digital passport system for traveler management
-👉 *Highlights: Innovative concept, real-time system, secure transactions*
+
+- Developed a user-friendly platform for travel booking and planning  
+- Implemented real-time updates for schedules and travel status  
+- Integrated secure transaction system for safe bookings  
+- Designed customizable travel options based on user preferences  
+- Built a digital passport system for traveler management  
+
+👉 **Highlights:** Innovative concept, real-time system, secure transactions
 
 ---
 
-### 🚗 **Echo Car Dealership - Desktop Application**  
+## 🚗 Echo Car Dealership - Desktop Application
 > A desktop-based car dealership management system developed using C# and SQL Server, designed to automate inventory, customer handling, billing, and delivery processes.
-Developed using C# .NET (Windows Forms) and Microsoft SQL Server
-Implemented authentication system (login, signup, email verification)
-Built customer and employee management system with full CRUD operations
-Designed car inventory management for add, update, and delete operations
-Integrated billing, payment, and delivery tracking system
-Developed a user-friendly Windows Forms GUI
-👉 *Highlights: Inventory management, authentication system, billing automation, database integration.*
+
+- Developed using C# .NET (Windows Forms) and Microsoft SQL Server  
+- Implemented authentication system (login, signup, email verification)  
+- Built customer and employee management system with full CRUD operations  
+- Designed car inventory management for add, update, and delete operations  
+- Integrated billing, payment, and delivery tracking system  
+- Developed a user-friendly Windows Forms GUI  
+
+👉 **Highlights:** Inventory management, authentication system, billing automation, database integration
 
 ---
 
-### 🚗 **A Ride Sharing App**  
+## 🚗 A Ride Sharing App
 > A Java-based ride-sharing system designed to connect users with ride services efficiently.
-Built using Java (OOP concepts)
-Implemented user signup and login system
-Designed ride request and booking functionality
-Managed user session and authentication flow
-Developed a console-based application structure 
-👉 *Highlights: OOP implementation, ride booking system, user authentication, structured Java project design.*
+
+- Built using Java (OOP concepts)  
+- Implemented user signup and login system  
+- Designed ride request and booking functionality  
+- Managed user session and authentication flow  
+- Developed a console-based application structure  
+
+👉 **Highlights:** OOP implementation, ride booking system, user authentication, structured Java project design
 
 ---
 
-### 🚇 **Dhaka Metro - Animation Project**  
+## 🚇 Dhaka Metro - Animation Project
 > A graphics-based simulation project visualizing metro rail operations with animated environments and passenger movement.
-Built using C/C++ with OpenGL and GLUT (FreeGLUT)
-Implemented day-night transition scene animation
-Developed metro train movement on railway tracks
-Created escalator animation with moving passengers
-Designed station interaction system (boarding and exiting simulation)  
-👉 *Highlights: Computer graphics, real-time animation, simulation system, OpenGL rendering.*
+
+- Built using C/C++ with OpenGL and GLUT (FreeGLUT)  
+- Implemented day-night transition scene animation  
+- Developed metro train movement on railway tracks  
+- Created escalator animation with moving passengers  
+- Designed station interaction system (boarding and exiting simulation)  
+
+👉 **Highlights:** Computer graphics, real-time animation, simulation system, OpenGL rendering
 
 ---
 
-### 🏏 **AIUB Cricket Team Management System**  
+## 🏏 AIUB Cricket Team Management System
 > A database management system designed to handle and organize cricket team operations including players, coaches, officials, and events.
-Designed using Oracle 10g and MySQL database systems
-Implemented Java (JDBC) connectivity for database operations
-Managed players, selectors, coaches, officials, and events data
-Applied database normalization (UNF → 1NF → 2NF → 3NF)
-Developed SQL queries for CRUD operations, joins, and aggregations
-Created relational database schema with multiple interconnected tables
-👉 *Highlights: Database design, normalization, JDBC integration, complex relational schema.*
+
+- Designed using Oracle 10g and MySQL database systems  
+- Implemented Java (JDBC) connectivity for database operations  
+- Managed players, selectors, coaches, officials, and events data  
+- Applied database normalization (UNF → 1NF → 2NF → 3NF)  
+- Developed SQL queries for CRUD operations, joins, and aggregations  
+- Created relational database schema with multiple interconnected tables  
+
+👉 **Highlights:** Database design, normalization, JDBC integration, complex relational schema
 
 ---
 
-### 📷 **A Smart Object Detection System Using ESP32-CAM**  
+## 📷 Smart Object Detection System Using ESP32-CAM
 > An embedded object detection system developed using ESP32-CAM and machine learning for real-time identification of objects.
-Built using ESP32-CAM with Edge Impulse FOMO model
-Detects bananas, pencils, oranges, bottles, and human faces
-Provides real-time object detection with bounding boxes
-Displays results on SSD1306 OLED screen
-Uses HC-SR04 ultrasonic sensor for motion detection and power saving (deep sleep mode)
-Designed for low-cost embedded IoT implementation
-👉 *Highlights: Embedded AI, real-time object detection, IoT system, power optimization.*
+
+- Built using ESP32-CAM with Edge Impulse FOMO model  
+- Detects bananas, pencils, oranges, bottles, and human faces  
+- Provides real-time object detection with bounding boxes  
+- Displays results on SSD1306 OLED screen  
+- Uses HC-SR04 ultrasonic sensor for motion detection and power saving (deep sleep mode)  
+- Designed for low-cost embedded IoT implementation  
+
+👉 **Highlights:** Embedded AI, real-time object detection, IoT system, power optimization
 
 ---
 
